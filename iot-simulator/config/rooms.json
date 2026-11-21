@@ -1,0 +1,23 @@
+
+{
+  "rooms": [
+    {
+      "id": "A102",
+      "name": "Salle A102",
+      "building": "Bâtiment A",
+      "temperature": 22.0,
+      "humidity": 55.0,
+      "presence": false,
+      "light": 700
+    },
+    {
+      "id": "A103",
+      "name": "Salle A103",
+      "building": "Bâtiment A",
+      "temperature": 30.0,
+      "humidity": 65.0,
+      "presence": true,
+      "light": 250
+    }
+  ]
+}
