@@ -153,10 +153,13 @@ paho-mqtt==2.1.0
 ### Étape 6 – Lancer la simulation
 
 Depuis le dossier `iot-simulator` :
+Simulatanément :
 
+Sur un terminal_1 :
 ```powershell_1
 python -m simulators.main
 ```
+Sur un terminal_2:
 ```powershell_2
 python -m simulators.mqtt_subscriber
 ```
