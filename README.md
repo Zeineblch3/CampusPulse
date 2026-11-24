@@ -154,8 +154,11 @@ paho-mqtt==2.1.0
 
 Depuis le dossier `iot-simulator` :
 
-```powershell
+```powershell_1
 python -m simulators.main
+```
+```powershell_2
+python -m simulators.mqtt_subscriber
 ```
 
 Résultat attendu :
